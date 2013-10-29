@@ -14,6 +14,8 @@ NeoBundle 'itchyny/lightline.vim'
 
 NeoBundle 'moll/vim-node'
 
+NeoBundle 'The-NERD-tree'
+
 NeoBundleCheck
 
 " lightline
