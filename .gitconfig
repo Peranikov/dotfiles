@@ -4,3 +4,7 @@
   ui = auto
 [push]
   default = matching
+[alias]
+  st = status
+  sh = show
+  co = checkout
