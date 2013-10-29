@@ -1,0 +1,6 @@
+[include]
+  path = .gitconfig.local
+[color]
+  ui = auto
+[push]
+  default = matching
