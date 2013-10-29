@@ -2,3 +2,6 @@
 .DS_Store
 !.gitignore
 !.zshrc
+.vim/bundle/*
+!.vim/bundle/neobundle.vim
+.vim/.netrwhist
