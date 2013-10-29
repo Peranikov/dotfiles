@@ -1,7 +1,12 @@
+set nocompatible
 set number 
+set incsearch
+set ignorecase
+set expandtab
+set ts=2
+syntax on 
 
 if has('vim_starting')
-  set nocompatible
   set runtimepath+=~/.vim/bundle/neobundle.vim/
 endif
 
