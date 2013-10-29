@@ -46,3 +46,8 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 export PATH=$PATH:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
+
+# .nvm
+if [ -e ~/.nvm/nvm.sh ]; then
+  source ~/.nvm/nvm.sh
+fi
