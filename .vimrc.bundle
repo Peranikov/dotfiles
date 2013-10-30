@@ -9,11 +9,11 @@ endif
 NeoBundleFetch 'Shougo/neobundle.vim'
 
 NeoBundle 'Shougo/vimproc'
-
+" status line
 NeoBundle 'itchyny/lightline.vim'
-
+" node
 NeoBundle 'moll/vim-node'
-
+" tree
 NeoBundle 'The-NERD-tree'
 
 NeoBundleCheck
