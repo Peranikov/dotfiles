@@ -8,5 +8,6 @@
   st = status
   sh = show
   co = checkout
+  df = diff
 [core]
 	excludesfile = ~/.gitignore.global
