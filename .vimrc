@@ -7,6 +7,7 @@ set ts=2
 set shiftwidth=2
 set laststatus=2
 set t_Co=256
+set paste
 syntax on 
 
 source ~/dotfiles/.vimrc.bundle
