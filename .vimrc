@@ -9,6 +9,6 @@ set laststatus=2
 set t_Co=256
 syntax on 
 
-source .vimrc.bundle
+source ~/dotfiles/.vimrc.bundle
 
 filetype plugin indent on     " Required!
