@@ -51,3 +51,8 @@ export PATH=$PATH:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
 if [ -e ~/.nvm/nvm.sh ]; then
   source ~/.nvm/nvm.sh
 fi
+
+# include zshrc.local
+if [ -e ~/.zshrc.local ]; then
+  source ~/.zshrc.local
+fi
