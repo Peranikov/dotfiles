@@ -3,7 +3,7 @@
 [color]
   ui = auto
 [push]
-  default = matching
+  default = upstream
 [alias]
   st = status
   sh = show
