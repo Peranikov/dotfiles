@@ -26,6 +26,14 @@ NeoBundle 'h1mesuke/vim-alignta'
 
 NeoBundle 'Shougo/neocomplete.vim'
 
+NeoBundle 'Smooth-Scroll'
+
+NeoBundle 'smartword'
+
+NeoBundle 'ruby.vim'
+
+NeoBundle 'JavaScript-syntax'
+
 NeoBundleCheck
 
 " lightline
