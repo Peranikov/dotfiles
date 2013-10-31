@@ -1,1 +1,2 @@
-brew vim --override-system-vi --with-lua --with-ruby --with-python --with-python3
+tap 'phinze/cask'
+brew 'vim --override-system-vi --with-lua --with-ruby --with-python --with-python3'
