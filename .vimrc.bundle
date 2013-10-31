@@ -16,6 +16,16 @@ NeoBundle 'moll/vim-node'
 " tree
 NeoBundle 'The-NERD-tree'
 
+NeoBundle 'scrooloose/nerdcommenter.git'
+
+NeoBundle 'xmledit'
+
+NeoBundle 'Align'
+
+NeoBundle 'h1mesuke/vim-alignta'
+
+NeoBundle 'Shougo/neocomplete.vim'
+
 NeoBundleCheck
 
 " lightline
