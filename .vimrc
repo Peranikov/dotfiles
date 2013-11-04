@@ -10,6 +10,10 @@ set t_Co=256
 set paste
 syntax on 
 
+" NeoBundles
 source ~/dotfiles/.vimrc.bundle
+
+" プラグインの設定 
+source ~/dotfiles/.vimrc.plugins_setting
 
 filetype plugin indent on     " Required!
