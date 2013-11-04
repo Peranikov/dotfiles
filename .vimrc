@@ -1,14 +1,5 @@
-set nocompatible
-set number 
-set incsearch
-set ignorecase
-set expandtab
-set ts=2
-set shiftwidth=2
-set laststatus=2
-set t_Co=256
-set paste
-syntax on 
+" 基本設定
+source ~/dotfiles/.vimrc.basic
 
 " NeoBundles
 source ~/dotfiles/.vimrc.bundle

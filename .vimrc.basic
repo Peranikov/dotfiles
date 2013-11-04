@@ -1,0 +1,13 @@
+set nocompatible
+set number 
+set incsearch
+set ignorecase
+set expandtab
+set ts=2
+set shiftwidth=2
+set laststatus=2
+set t_Co=256
+set paste
+set whichwrap=b,s,h,l,<,>,[,],~
+set clipborad+=unnamend
+syntax on 
