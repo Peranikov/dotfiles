@@ -1,13 +1,48 @@
 set nocompatible
+
+" 行番号表示
 set number 
+
+" 先頭から検索
 set incsearch
+
+" 検索の大文字小文字を区別しない
 set ignorecase
+
+" 大文字指定の場合は区別して検索
+set smartcase
+
+" タブの代わりに半角スペース
 set expandtab
+
+" スペースは2つ
 set ts=2
+
+" インデントも2つ
 set shiftwidth=2
+
+" ステータスラインを表示
 set laststatus=2
+
+" 256色表示
 set t_Co=256
+
+" コピペ対策
 set paste
+
+" 行末から先頭に行く
 set whichwrap=b,s,h,l,<,>,[,],~
+
+" クリップボードを使う
 set clipboard=unnamed
+ 
+" Backspaceを有効化
+set backspace=start,eol,indent
+
+" インデントを維持
+set smartindent
+
+" 対応するカッコを表示
+set showmatch
+
 syntax on 
