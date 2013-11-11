@@ -45,4 +45,8 @@ set smartindent
 " 対応するカッコを表示
 set showmatch
 
+" カーソルを変更
+let &t_SI .= "\e[5 q" " 入力モードはライン型
+let &t_EI .= "\e[1 q" " ノーマルモードはブロック型
+
 syntax on 
