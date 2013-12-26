@@ -51,3 +51,6 @@ export PATH=/usr/local/bin:$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 if [ -e ~/.zshrc.local ]; then
   source ~/.zshrc.local
 fi
+
+#THIS MUST BE AT THE END OF THE FILE FOR GVM TO WORK!!!
+[[ -s "/Users/Yuto/.gvm/bin/gvm-init.sh" ]] && source "/Users/Yuto/.gvm/bin/gvm-init.sh"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOT_FILES=(.zshrc .vimrc .vim .gitconfig .gitignore.global .nvm)
+DOT_FILES=(.gemrc .zshrc .vimrc .vim .gitconfig .gitignore.global)
 
 for file in ${DOT_FILES[@]}
 do

@@ -49,4 +49,8 @@ set showmatch
 let &t_SI .= "\e[5 q" " 入力モードはライン型
 let &t_EI .= "\e[1 q" " ノーマルモードはブロック型
 
+" 自動インデント
+set indentkeys=!^F,o,O,0<Bar>,0=where
+set indentexpr=-1
+
 syntax on 
