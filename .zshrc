@@ -54,3 +54,5 @@ fi
 
 #THIS MUST BE AT THE END OF THE FILE FOR GVM TO WORK!!!
 [[ -s "/Users/Yuto/.gvm/bin/gvm-init.sh" ]] && source "/Users/Yuto/.gvm/bin/gvm-init.sh"
+
+function gi() { curl http://gitignore.io/api/$@ ;}
