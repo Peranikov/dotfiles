@@ -5,10 +5,11 @@
 [push]
   default = upstream
 [alias]
-  st = status
+  st = status --short --branch
   sh = show
   co = checkout
   df = diff
   co = checkout
 [core]
 	excludesfile = ~/.gitignore.global
+  attributesfile = ~/.gitattributes.global
