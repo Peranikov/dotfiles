@@ -9,5 +9,6 @@
   sh = show
   co = checkout
   df = diff
+  co = checkout
 [core]
 	excludesfile = ~/.gitignore.global
