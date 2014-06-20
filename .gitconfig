@@ -10,6 +10,7 @@
   co = checkout
   df = diff
   co = checkout
+  cm = commit
 [core]
-	excludesfile = ~/.gitignore.global
+	excludesfile   = ~/.gitignore.global
   attributesfile = ~/.gitattributes.global
