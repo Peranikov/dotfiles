@@ -11,6 +11,7 @@
   df = diff
   co = checkout
   cm = commit
+  br = branch
 [core]
 	excludesfile   = ~/.gitignore.global
   attributesfile = ~/.gitattributes.global
