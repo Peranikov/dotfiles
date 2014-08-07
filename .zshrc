@@ -56,3 +56,5 @@ fi
 [[ -s "/Users/Yuto/.gvm/bin/gvm-init.sh" ]] && source "/Users/Yuto/.gvm/bin/gvm-init.sh"
 
 alias g='git'
+alias t='tig'
+alias ta='tig --all'

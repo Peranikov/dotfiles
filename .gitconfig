@@ -12,6 +12,7 @@
   co = checkout
   cm = commit
   br = branch
+  n  = now --all --stat
 [core]
 	excludesfile   = ~/.gitignore.global
   attributesfile = ~/.gitattributes.global
