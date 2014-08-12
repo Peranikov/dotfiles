@@ -5,6 +5,11 @@
 [push]
   default = upstream
 [alias]
+  a  = add
+  b  = branch
+  c  = commit
+  d  = diff
+  s  = status --short --branch
   st = status --short --branch
   sh = show
   co = checkout
