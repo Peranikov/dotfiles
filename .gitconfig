@@ -10,6 +10,8 @@
   c  = commit
   d  = diff
   s  = status --short --branch
+  l  = log
+  n  = now --all --stat
   st = status --short --branch
   sh = show
   co = checkout
@@ -17,7 +19,6 @@
   co = checkout
   cm = commit
   br = branch
-  n  = now --all --stat
 [core]
 	excludesfile   = ~/.gitignore.global
   attributesfile = ~/.gitattributes.global
