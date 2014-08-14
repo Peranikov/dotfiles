@@ -12,6 +12,7 @@
   s  = status --short --branch
   l  = log
   n  = now --all --stat
+  r  = rebase
   st = status --short --branch
   sh = show
   co = checkout
