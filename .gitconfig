@@ -8,7 +8,7 @@
   a  = add
   b  = branch
   c  = commit
-  d  = diff
+  d  = diff --color-words
   s  = status --short --branch
   l  = log
   n  = now --all --stat
