@@ -58,3 +58,4 @@ fi
 alias g='git'
 alias t='tig'
 alias ta='tig --all'
+alias histgrep='history | grep'
